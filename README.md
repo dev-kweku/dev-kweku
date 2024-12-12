@@ -15,4 +15,4 @@ I like anything chocolate 🍫 🍩 and I feel like I'm dying when I'm not learn
 
 "What's west of Westeros? ... That's where I'm going"
 
-funny i had an account which i forgot the 2FA passphrase (https://ghithub.com/richod1)
+funny i had an account which i forgot the 2FA passphrase (https://github.com/richod1)
